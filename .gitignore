@@ -1,6 +1,6 @@
 p.txt
 fstRNMED.txt
-*.log
+
 /newlog/
 static/newlog/
 fst.accdb
