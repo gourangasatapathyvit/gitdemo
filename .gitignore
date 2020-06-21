@@ -1,0 +1,6 @@
+*.log
+/newlog/
+static/newlog/
+fst.accdb
+
+
