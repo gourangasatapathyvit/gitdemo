@@ -115,7 +115,6 @@ google moji ->
 ☠️ Skull and Crossbones Emoji
 🙊 Speak-No-Evil Monkey Emoji
 💦 Sweat Droplets Emoji
-👁️‍🗨️ Eye In Speech Bubble Emoji
 💓 Beating Heart Emoji
 💔 Broken Heart Emoji
 💖 Sparkling Heart Emoji
@@ -220,10 +219,7 @@ google moji ->
 🤴 Prince Emoji
 👳 Person Wearing Turban Emoji
 👳‍♀️ Woman Wearing Turban Emoji
-👲 Person With Skullcap Emoji
-👱‍♀️ Woman: Blond Hair Emoji
-🗣 Speaking Head Emoji
-💇‍♀️ Woman Getting Haircut Emoji
+👲 Person With Skullcap Emo
 🤞 Crossed Fingers Emoji
 👂 Ear Emoji
 👁 Eye Emoji
@@ -1122,32 +1118,7 @@ google moji ->
 🎪 Circus Tent Emoji
 ♨️ Hot Springs Emoji
 🌀 Cyclone Emoji
-🕐 One O clock Emoji
-🕑 Two O clock Emoji
-🕒 Three O clock Emoji
-🕓 Four O clock Emoji
-🕔 Five O clock Emoji
-🕕 Six O clock Emoji
-🕖 Seven O clock Emoji
-🕗 Eight O clock Emoji
-🕘 Nine O clock Emoji
-🕙 Ten O clock Emoji
-🕚 Eleven O clock Emoji
-🕛 Twelve O clock Emoji
-🕜 One-Thirty Emoji
-🕝 Two-Thirty Emoji
-🕞 Three-Thirty Emoji
-🕟 Four-Thirty Emoji
-🕠 Five-Thirty Emoji
-🕡 Six-Thirty Emoji
-🕢 Seven-Thirty Emoji
-🕣 Eight-Thirty Emoji
-🕤 Nine-Thirty Emoji
-🕥 Ten-Thirty Emoji
-🕦 Eleven-Thirty Emoji
-🕧 Twelve-Thirty Emoji
-🛸 Flying Saucer Emoji
-🚙 Sport Utility Vehicle Emoji
+
 🛑 Stop Sign Emoji
 🛢 Oil Drum Emoji
 🛣 Motorway Emoji
