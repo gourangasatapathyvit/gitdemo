@@ -244,31 +244,6 @@ google moji ->
 🤜 Right-Facing Fist Emoji
 🤘 Sign of the Horns Emoji
 ⛷ Skier Emoji
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 🏂 Snowboarder Emoji
 👎 Thumbs Down Emoji
 👍 Thumbs Up Emoji
